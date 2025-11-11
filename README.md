@@ -1,2 +1,3 @@
-# professional-profile
-My professional Vue 3 profile website
+# my-portfolio
+
+Generated Vue 3 Vite project. Run `npm install` then `npm run dev`.
